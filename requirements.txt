@@ -1,0 +1,10 @@
+
+streamlit
+langchain
+langchain-core
+langchain-groq
+python-dotenv
+pydantic
+requests
+beautifulsoup4
+tavily-python
